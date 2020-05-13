@@ -1,0 +1,17 @@
+F:\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp3.1\GraphClient.exe
+F:\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp3.1\GraphClient.deps.json
+F:\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp3.1\GraphClient.runtimeconfig.json
+F:\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp3.1\GraphClient.runtimeconfig.dev.json
+F:\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp3.1\GraphClient.dll
+F:\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp3.1\GraphClient.pdb
+F:\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp3.1\GraphClient.csprojAssemblyReference.cache
+F:\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp3.1\GraphClient.AssemblyInfoInputs.cache
+F:\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp3.1\GraphClient.AssemblyInfo.cs
+F:\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp3.1\GraphClient.csproj.CopyComplete
+F:\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp3.1\GraphClient.dll
+F:\Allfiles\Labs\06\Starter\GraphClient\obj\Debug\netcoreapp3.1\GraphClient.pdb
+F:\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+F:\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp3.1\Microsoft.Graph.Auth.dll
+F:\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+F:\Allfiles\Labs\06\Starter\GraphClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
